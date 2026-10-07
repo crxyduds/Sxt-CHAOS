@@ -5,7 +5,7 @@
 ### 💻 Estudante de Desenvolvimento de Sistemas | Desenvolvedor em formação
 
 <p>
-  <a href="https://github.com/crxyduds">
+  <a href="https://github.com/Sxt-CHAOS">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
